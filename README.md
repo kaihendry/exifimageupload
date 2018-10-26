@@ -1,3 +1,6 @@
+SUPERSEDED by https://github.com/kaihendry/geotag-image
+
+
 # EXIF information is stripped from IOS Safari image uploads
 
 Tested on:
